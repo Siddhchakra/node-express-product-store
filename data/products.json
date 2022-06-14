@@ -1,0 +1,7 @@
+[
+  { "name": "Sofa", "company": "ikea", "featured": false, "rating": 0 },
+  { "name": "Bed", "company": "marcos", "featured": false, "rating": 0 },
+  { "name": "Table", "company": "ikea", "featured": false, "rating": 0 },
+  { "name": "Chair", "company": "liddy", "featured": false, "rating": 0 },
+  { "name": "Shelf", "company": "ikea", "featured": false, "rating": 0 }
+]
